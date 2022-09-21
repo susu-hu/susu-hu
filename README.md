@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<!-- 动态打字效果 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=F7911A&background=65A47F00&width=435&lines=%E8%8B%8F%E8%8B%8F%E6%9D%A5%E4%BA%86%EF%BC%81)](https://git.io/typing-svg)
+<!-- 贪吃蛇代码贡献图 -->
+<div align="left"><img src="./img/github-snake.svg" /></div>
 <!--
 **susu-hu/susu-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
