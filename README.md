@@ -27,6 +27,16 @@
 <div align="left"><img  src="https://github-profile-trophy.vercel.app/?username=susu-hu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
+<!-- GitHub Activity Graph -->
+<table align="left">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=susu-hu&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
 <!--
 **susu-hu/susu-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
