@@ -16,7 +16,7 @@
 <div align="left"><img src="https://cdn.jsdelivr.net/gh/susu-hu/susu-hu/img/github-snake.svg" /></div>
 
 ##  🙋 Hello
-
+####  ✍️&nbsp;&nbsp;大家好，我是苏苏! 毕业于南京信息工程大学软件工程专业，技术分享，学习共勉，成为一个优秀的程序员，冲鸭！
 <!-- GitHub数据统计 -->
 <div align="left">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=susu-hu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -26,6 +26,7 @@
 <!-- GitHub奖杯🏆 -->
 <div align="left"><img  src="https://github-profile-trophy.vercel.app/?username=susu-hu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
+
 <!--
 **susu-hu/susu-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
