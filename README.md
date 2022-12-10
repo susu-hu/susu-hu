@@ -20,7 +20,9 @@
 
 ## 📫 Reach me
 #### 🏠 &nbsp;&nbsp;公众号：苏苏的bug
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/susu-hu/susu-hu/img/苏苏的bug.jpg" /></div>
+<br/>
+<div align="left"><img src="https://cdn.jsdelivr.net/gh/susu-hu/susu-hu/img/苏苏的bug.jpg" style='width:200px;height:200px'/></div>
+<br/>
 <!-- GitHub数据统计 -->
 <div align="left">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=susu-hu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
