@@ -8,6 +8,7 @@
   <a href="https://juejin.cn/user/501810326675470"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-juejin-blue"></a>&emsp;
   <a href="https://blog.csdn.net/qq_48085286?type=blog"><img src="https://img.shields.io/badge/CSDN%E5%8D%9A%E5%AE%A2-csdn-red"></a>&emsp;
   <a href="https://www.jianshu.com/u/fe30523e9196"><img src="https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-jianshu-orange"></a>&emsp;
+  <a href="https://space.bilibili.com/71106017"><img src="https://img.shields.io/badge/b%E7%AB%99-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-red"></a>&emsp;
   
   <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=susu-hu" alt="访客统计" />
