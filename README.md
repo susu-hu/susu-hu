@@ -17,7 +17,7 @@
 <div align="left"><img src="https://cdn.jsdelivr.net/gh/susu-hu/susu-hu/img/github-snake.svg" /></div>
 
 ##  🙋 Hello
-####  ✍️&nbsp;&nbsp;大家好，我是苏苏! 毕业于南京信息工程大学软件工程专业，技术分享，学习共勉，成为一个优秀的程序员，冲鸭！
+####  ✍️&nbsp;&nbsp;大家好，我是苏苏! 软件工程专业，技术分享，学习共勉，成为一个优秀的程序员，冲鸭！
 
 ## 📫 Reach me
 #### 🏠 &nbsp;&nbsp;公众号：苏苏的bug
